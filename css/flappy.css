@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'flappy-bird';
+    src: url('../assets/fonts/flappyfont/flappy-bird.ttf');
+}
+
+canvas{
+    position: relative;
+    outline: 5px solid dodgerblue;
+    margin: 15px;
+    background-color: deepskyblue;
+    overflow: hidden;
+}
+
+
+
+
+

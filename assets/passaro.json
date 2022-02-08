@@ -1,0 +1,40 @@
+{"frames": {
+
+"0":
+{
+	"frame": {"x":1,"y":1,"w":34,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":24},
+	"sourceSize": {"w":34,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"1":
+{
+	"frame": {"x":37,"y":1,"w":34,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":24},
+	"sourceSize": {"w":34,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2":
+{
+	"frame": {"x":73,"y":1,"w":34,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":24},
+	"sourceSize": {"w":34,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bird_amarelo.png",
+	"format": "RGBA8888",
+	"size": {"w":108,"h":26},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:911d3ed13a698d9f4a6bc3de1f101bb4:7b1314def2b80b36ad7a902cdd7261b1:697cfd4edcfd058be8cd0057d64076ff$"
+}
+}
+
