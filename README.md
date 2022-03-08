@@ -4,10 +4,18 @@
 ### https://flappybird-medeirospradoleonardo.000webhostapp.com/
 
 # Screenshots
-<img src="https://github.com/medeirospradoleonardo/Flappy-Bird-Phaser-3/blob/master/assets/Screenshot%201.png?raw=true" title="Menu do jogo">
-<img src="https://github.com/medeirospradoleonardo/Flappy-Bird-Phaser-3/blob/master/assets/Screenshot%202.png?raw=true" title="Jogo para começar">
-<img src="https://github.com/medeirospradoleonardo/Flappy-Bird-Phaser-3/blob/master/assets/Screenshot%203.png?raw=true" title="Jogo em andamento">
-<img src="https://github.com/medeirospradoleonardo/Flappy-Bird-Phaser-3/blob/master/assets/Screenshot%204.png?raw=true" title="Game Over">
+<p align="center">
+  <img src="https://github.com/medeirospradoleonardo/Flappy-Bird-Phaser-3/blob/master/assets/Screenshot%201.png?raw=true" title="Menu do jogo">
+</p>
+<p align="center">
+  <img src="https://github.com/medeirospradoleonardo/Flappy-Bird-Phaser-3/blob/master/assets/Screenshot%202.png?raw=true" title="Jogo para começar">
+</p>
+<p align="center">
+  <img src="https://github.com/medeirospradoleonardo/Flappy-Bird-Phaser-3/blob/master/assets/Screenshot%203.png?raw=true" title="Jogo em andamento">
+</p>
+<p align="center">
+  <img src="https://github.com/medeirospradoleonardo/Flappy-Bird-Phaser-3/blob/master/assets/Screenshot%204.png?raw=true" title="Game Over">
+</p>
 
 # Para Executar
 
