@@ -2,6 +2,9 @@
 # Utilizei Phaser v3.55.2
 # Hospedei o jogo no Link: https://flappybird-medeirospradoleonardo.000webhostapp.com/
 
+# Screenshots
+
+
 # Para Executar
 
 ## 1 - Execute "npm install http-server".
